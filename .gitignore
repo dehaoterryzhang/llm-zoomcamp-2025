@@ -3,3 +3,4 @@ __pycache__/
 .venv
 .envrc
 .env
+02-vector-search/qdrant_storage/
